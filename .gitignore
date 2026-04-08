@@ -1,0 +1,10 @@
+dataset/
+Dataset/
+Q2/Dataset/
+Q3/Dataset/
+*.pth
+*.npy
+wandb/
+__pycache__/
+/.venv/
+checkpoints/

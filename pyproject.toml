@@ -1,0 +1,20 @@
+[project]
+name = "s26-cv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "networkx>=3.6.1",
+    "numpy>=2.4.1",
+    "opencv-python>=4.13.0.90",
+    "plyfile>=1.1.3",
+    "scikit-image>=0.26.0",
+    "scikit-learn",
+    "seaborn>=0.13.2",
+    "torch",
+    "torchvision",
+    "tqdm",
+    "wandb",
+]
