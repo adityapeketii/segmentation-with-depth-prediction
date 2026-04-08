@@ -77,9 +77,9 @@ L_total = L_seg + 0.2 · L_depth
 
 Detailed logs, including training/validation loss curves and metric trends, can be found in the following experiment runs:
 
-- Vanilla Multi-Task U-Net
-- U-Net without Skip Connections
-- U-Net with Residual Blocks
+- Vanilla Multi-Task U-Net: https://api.wandb.ai/links/adityapeketii-iiit-hyderabad/qtxe4x2p
+- U-Net without Skip Connections: https://api.wandb.ai/links/adityapeketii-iiit-hyderabad/au3a1h7m
+- U-Net with Residual Blocks: https://api.wandb.ai/links/adityapeketii-iiit-hyderabad/67bhjdun
 
 ## Folder Structure
 
